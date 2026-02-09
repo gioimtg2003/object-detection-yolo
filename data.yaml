@@ -1,0 +1,6 @@
+path: D:\Develop\UAV\train-1\dataset
+train: images/train
+val: images/val
+
+nc: 4
+names: ["Blue", "Heliport", "Red", "Yellow"]
